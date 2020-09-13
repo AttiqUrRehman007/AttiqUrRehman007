@@ -26,13 +26,13 @@
 <img  align="left" height="48" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
+
 ### Tools
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://dashboard.snapcraft.io/site_media/appmedia/2017/11/WebStorm_1282x.png"/>
 <img align="left" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img align="left" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img align="left" height="48" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg">
-</br>
+<img align="left" height="48" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"/>
 
 
 ### Education
