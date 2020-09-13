@@ -34,8 +34,6 @@
 <img align="left" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img align="left" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img align="left" height="48" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"/>
-<br />
 <br />
 <br />
 
