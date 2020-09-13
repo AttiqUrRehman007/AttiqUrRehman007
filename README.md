@@ -20,6 +20,7 @@
 
 ### Frameworks
 <img align="left" src="https://img.icons8.com/plasticine/48/000000/react.png"/>
+<br />
 
 ### Databases
 <img  align="left" height="48" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
