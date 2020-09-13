@@ -57,7 +57,7 @@
 
 ---
 
-[website]: https://techno-soft.com/
+[website]: https://xenodochial-payne-d55918.netlify.app/
 [twitter]: https://twitter.com/007Attiq
 [instagram]: https://www.instagram.com/attiq_khan7/
 [linkedin]: https://www.linkedin.com/in/attiq-ur-rehman-71b511157/
