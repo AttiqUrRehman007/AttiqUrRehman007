@@ -20,20 +20,19 @@
 
 ### Frameworks
 <img align="left" src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-<br/>
 
 ### Databases
 <img  align="left" height="48" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-
 
 ### Tools
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://dashboard.snapcraft.io/site_media/appmedia/2017/11/WebStorm_1282x.png"/>
 <img align="left" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img align="left" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img align="left" height="48" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"/>
+<img align="left" height="48" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg">
 
+<br/>
 
 ### Education
 [<img alt="kust" alt="Bachelor of computer science" width="48px" src="https://i.pinimg.com/originals/68/81/fd/6881fde41d2e8d5273c333abf9ba00c1.gif"/>][kust]
@@ -62,4 +61,3 @@
 [instagram]: https://www.instagram.com/attiq_khan7/
 [linkedin]: https://www.linkedin.com/in/attiq-ur-rehman-71b511157/
 [kust]: https://kust.edu.pk/web/
-
