@@ -19,7 +19,7 @@
 <img aling="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 ### Frameworks
-<img align="left" src="https://img.icons8.com/plasticine/48/000000/react.png"/>
+<img align="left" src="https://img.icons8.com/ultraviolet/40/000000/react.png"/>
 <br />
 <br />
 
